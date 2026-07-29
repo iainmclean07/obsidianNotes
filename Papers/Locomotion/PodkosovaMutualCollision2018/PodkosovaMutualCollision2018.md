@@ -19,7 +19,10 @@ relations:
 # @PodkosovaMutualCollision2018
 ## 🟠1st Pass
 ### 1. Context
-Conducted a user study where participants in reality, virtuality co-located, and virtuality distributed had to walk either directly at one another, or cross paths with one another, and make it to a certain point without colliding with one another. They weren't specifically asked to avoid one another. 
+
+
+[[proxemics]]
+Conducted a user study where participants in reality, virtuality [[co-located]], and virtuality [[distributed]] had to walk either directly at one another, or [[cross paths]] with one another, and make it to a certain point without colliding with one another. They weren't specifically asked to [[avoid]] one another. 
 
 Defines two metrics to which they can assess the ability to not collide, essentially clearance distance (the distance they move to to pass each other) and curvature of path (how wide of a berth they gave the other participant). 
 
