@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locomotion/olivierMinimalPredictedDistance2012/olivierMinimalPredictedDistance2012.md",
+                "file": "To Be Synced in Zotero/Proxemics/Nolte et al. - 2025 - Investigating proxemics behaviors towards individuals, pairs, and groups in virtual reality.pdf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "olivierMinimalPredictedDistance2012"
+              "title": "Nolte et al. - 2025 - Investigating proxemics behaviors towards individuals, pairs, and groups in virtual reality.pdf"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -171,6 +173,16 @@
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "online.larslockefeer.obsidian-plugin-todo"
+            }
+          },
+          {
+            "id": "0e6af7f198fcf5b1",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo"
             }
@@ -195,51 +207,52 @@
   },
   "active": "425ae4519b209b02",
   "lastOpenFiles": [
-    "Locomotion/mousasEvaluatingVirtualReality2021/mousasEvaluatingVirtualReality2021.md",
+    "To Be Synced in Zotero/Hybrid XR/Cavallo et al.md",
+    "To Be Synced in Zotero/Proxemics/Nolte et al. - 2025 - Investigating proxemics behaviors towards individuals, pairs, and groups in virtual reality.pdf.md",
+    "To Be Synced in Zotero/Hybrid XR/Ghamandi et al.md",
+    "To Be Synced in Zotero/Hybrid XR/Harrison and Dourish - 1996 - Re-place-ing space the roles of place and space in collaborative systems.pdf.md",
+    "To Be Synced in Zotero/Hybrid XR/Busboom and Boulus-Rodje - 2024 - The Quest for How to do Hybrid right Moving Beyond Compensating Asymmetries to Experience-Driven.md",
+    "To Be Synced in Zotero/Hybrid XR/Bjørn et al. - 2024 - Achieving Symmetry in Synchronous Interaction in Hybrid Work is Impossible.pdf.md",
+    "To Be Synced in Zotero/Attraction/McCroskey and McCain - 1974 - The measurement of interpersonal attraction.pdf.md",
+    "To Be Synced in Zotero/Proxemics/Hale and Burgoon - 1984 - Models of reactions to changes in nonverbal immediacy.pdf.md",
+    "To Be Synced in Zotero/Proxemics/Wilcox et al. - 2006 - Personal space in virtual reality.pdf.md",
+    "To Be Synced in Zotero/Attraction",
+    "To Be Synced in Zotero/Proxemics",
+    "_Meta/Templates/Source Notes Zotero Import Template.md",
+    "To Be Synced in Zotero/Hybrid XR",
+    "To Be Synced in Zotero",
+    "_Meta/Templates/Sequential Zotero Note Import.md",
+    "Locomotion/BastenMotionCapture2009.md",
     "Navigation/freiwaldEffectsAvatarAppearance2021.md",
-    "Social XR/nowakEffectAgencyAnthropomorphism2003.md",
-    "Social XR/Minsky1980Telepresence.md",
-    "Social XR/felnhoferPhysicalPresenceSocial2019.md",
-    "Social XR/iachiniPeripersonalInterpersonalSpace2016/iachiniPeripersonalInterpersonalSpace2016.md",
-    "Social XR/garauResponsesPeopleVirtual2005/garauResponsesPeopleVirtual2005.md",
+    "Navigation/gerin-lajoieCharacteristicsPersonalSpace2008a.md",
+    "Notes/Todo.md",
+    "Notes/Research Gap.md",
+    "Notes/Chi Square Test.md",
     "Social XR/aseeriInfluenceAvatarRepresentation2021b/aseeriInfluenceAvatarRepresentation2021b.md",
-    "proxemics.md",
+    "Social XR/garauResponsesPeopleVirtual2005/garauResponsesPeopleVirtual2005.md",
+    "Social XR/iachiniPeripersonalInterpersonalSpace2016/iachiniPeripersonalInterpersonalSpace2016.md",
+    "Social XR/felnhoferPhysicalPresenceSocial2019.md",
+    "Social XR/Minsky1980Telepresence.md",
+    "Social XR/nowakEffectAgencyAnthropomorphism2003.md",
+    "Writing/keshavHowReadPaper2007.md",
+    "Locomotion/olivierMinimalPredictedDistance2012/olivierMinimalPredictedDistance2012.md",
+    "Locomotion/mousasEvaluatingVirtualReality2021/mousasEvaluatingVirtualReality2021.md",
+    "Locomotion/mousasEvaluatingVirtualReality2021/image-2-x41-y585.png",
+    "Social XR/aseeriInfluenceAvatarRepresentation2021b/image-5-x308-y46.png",
     "Untitled.base",
-    "Untitled.md",
     "Social XR/iachiniPeripersonalInterpersonalSpace2016/image-7-x51-y483.png",
     "Social XR/iachiniPeripersonalInterpersonalSpace2016/image-6-x51-y219.png",
     "Social XR/iachiniPeripersonalInterpersonalSpace2016/image-3-x17-y39.png",
-    "Locomotion/BastenMotionCapture2009.md",
-    "Notes/Research Gap.md",
-    "Notes/Chi Square Test.md",
-    "Navigation/Locomotion.md",
     "Social XR/garauResponsesPeopleVirtual2005/image-3-x316-y488.png",
     "Social XR/garauResponsesPeopleVirtual2005/image-4-x62-y481.png",
-    "Locomotion/PodkosovaMutualCollision2018/PodkosovaMutualCollision2018.md",
-    "Locomotion/olivierMinimalPredictedDistance2012/olivierMinimalPredictedDistance2012.md",
-    "Navigation/gerin-lajoieCharacteristicsPersonalSpace2008a.md",
-    "Notes/Todo.md",
     "Social XR/iachiniPeripersonalInterpersonalSpace2016",
     "Social XR/aseeriInfluenceAvatarRepresentation2021b/image-undefined-x72-y500.png",
-    "Social XR/aseeriInfluenceAvatarRepresentation2021b/image-5-x308-y46.png",
     "Social XR/aseeriInfluenceAvatarRepresentation2021b/image-8-x40-y358.png",
     "Social XR/aseeriInfluenceAvatarRepresentation2021b",
     "Social XR",
     "Social XR/garauResponsesPeopleVirtual2005",
     "Locomotion/mousasEvaluatingVirtualReality2021/image-8-x34-y284.png",
-    "Locomotion/mousasEvaluatingVirtualReality2021/image-2-x41-y585.png",
     "Locomotion/mousasEvaluatingVirtualReality2021",
-    "Navigation/nelsonEffectsSpeedCollocated2023.md",
-    "Task & Research Design/Task Design.md",
-    "Ideas for Tasks.canvas",
-    "Task & Research Design/Images",
-    "Writing/keshavHowReadPaper2007.md",
-    "Development/Nice to have.md",
-    "Task & Research Design/mcgrathGroupsInteractionPerformance1984.md",
-    "Task & Research Design/mcgrathGroupsInteractionPerformance1984",
-    "Task & Research Design",
-    "Proxemics/Kinesthetics/Kinaesthetics knowledge of proprioceptive movements in the body.md",
-    "Proxemics/Kinesthetics",
-    "Proxemics/Kinesics/Kinesics2006.md"
+    "Ideas for Tasks.canvas"
   ]
 }
